@@ -1,5 +1,7 @@
 # Docker demo for takaojs 1607
 
+[![](https://images.microbadger.com/badges/image/chusiang/takaojs1607.svg)](https://microbadger.com/images/chusiang/takaojs1607 "Get your own image badge on microbadger.com")
+
 This is a docker demo for takaojs meetup at 2016/07/04.
 
 * OS: Ubuntu 15.04
